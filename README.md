@@ -39,6 +39,18 @@ format:
   - Institute: California Institute of Technology & University of Southern California
   - Publish: Nature Machine Intelligence
   - Keyword: Synthetic data, X-ray image analysis
+  
+  ### 2021
+- [PolypGen: A multi-center polyp detection and segmentation dataset for generalisability assessment](https://arxiv.org/abs/2106.04463)
+  - Institute: Oxford Universiy
+  - Publish: Nature Scientific data
+  - Keyword: 3761 images dataset, polyp detection and segmentation
+  
+- [Image Compositing for Segmentation of Surgical Tools without Manual Annotations](https://arxiv.org/pdf/2102.09528.pdf)
+  - Institute: University College London
+  - Publish: IEEE TMI
+  - Keyword: 514 manually labeled images from 20 surgical procedures, 100K labeled synthetic images, surgical tool segmentation
+
 
 
   
